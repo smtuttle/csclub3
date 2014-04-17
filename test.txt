@@ -1,4 +1,4 @@
-
 Here is our testing strategy for this project.
 
 TEST FIRST!
+And write unit tests for every module!
