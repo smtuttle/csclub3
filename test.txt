@@ -1,0 +1,4 @@
+
+Here is our testing strategy for this project.
+
+TEST FIRST!
